@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+env/
+
+# VS Code settings
+.vscode/
+
+# Logs and data files
+*.log
+*.json
+data/
+
+# OS files
+.DS_Store
