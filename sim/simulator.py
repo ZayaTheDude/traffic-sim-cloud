@@ -1,6 +1,7 @@
 import pygame
 import sys
 from car import Car
+from intersection import Intersection
 
 # Init
 pygame.init()
@@ -21,12 +22,14 @@ car = Car(x=0, y=300, speed=5, direction="right")
 cars.append(car)
 
 # Define intersection box
-intersection = pygame.Rect(370, 270, 60, 60)
+intersection = Intersection(x=350, y=250)
 
 running = True
 while running:
     clock.tick(FPS)
     WIN.fill(WHITE)
+    intersection.draw(WIN)  # Draw the intersection each frame
+
 
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
@@ -38,8 +41,6 @@ while running:
         print(car.get_state())  # Print car state for debugging
 
     cars = [car for car in cars if car.x < WIDTH and car.y < HEIGHT]  # Filter cars within bounds
-
-    pygame.draw.rect(WIN, GREEN, intersection, 2)
 
     pygame.display.update()
 

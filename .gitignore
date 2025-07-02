@@ -17,3 +17,6 @@ data/
 
 # OS files
 .DS_Store
+
+# AWS credentials (though they’re stored outside the project)
+.aws/

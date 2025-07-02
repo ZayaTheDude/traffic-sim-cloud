@@ -1,0 +1,21 @@
+import boto3
+import os
+
+s3 = boto3.client('s3', region_name='us-east-2')
+
+def upload_file(file_path, bucket_name, object_name=None):
+    if object_name is None:
+        object_name = os.path.basename(file_path)
+
+    s3 = boto3.client('s3')
+
+    try:
+        s3.upload_file(file_path, bucket_name, object_name)
+        print(f"✅ Uploaded {file_path} to s3://{bucket_name}/{object_name}")
+    except Exception as e:
+        print(f"❌ Upload failed: {e}")
+
+if __name__ == "__main__":
+    test_file = "data/test_upload.txt"
+    bucket = "traffic-sim-logs-isaiah"
+    upload_file(test_file, bucket)
