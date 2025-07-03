@@ -102,3 +102,26 @@ As the simulation is running, I’ll log car data (positions, timestamps, maybe 
 - [x] Reflected on what’s really happening under the hood of `upload_file()`
 
 Tomorrow, I’ll start logging actual simulation data and test uploading that to S3. I’d also like to begin thinking about how to simulate real traffic flow — maybe stoplights, congestion, or prioritizing certain directions at intersections.
+
+
+## July 3 Notes
+
+I implemented dynamic car spawning using a tick counter in the main loop. Right now, a new car enters the simulation every few seconds — which already makes things more interesting to watch, and much more realistic from a traffic modeling perspective. I experimented with both fixed and randomized intervals, which could be useful later if I want to simulate rush hours or changing traffic flow.
+
+I also created a `Logger` class to track simulation state over time. It records each tick and stores the current position and direction of every car. This log is written to a local JSON file at the end of the run. What’s great is that this makes the simulation *data-rich* — I can analyze car behavior, debug issues, or even pipe this data into other systems later (e.g., a traffic dashboard or data pipeline).
+
+Once the logging was working, I tested the full loop by uploading the `sim_log.json` file to my S3 bucket using the same Boto3 upload script from yesterday. The upload was successful — and more importantly, it felt like a *real* cloud-based workflow. Sim runs locally → generates structured log → pushes to the cloud. That’s exactly the kind of hands-on experience I wanted for this interview prep.
+
+### ✅ What did I do today?
+- Implemented dynamic car spawning logic
+- Added a tick counter to track simulation time
+- Built a `Logger` class to store simulation state in a structured JSON format
+- Successfully wrote and uploaded a full log to S3
+
+### ✅ What am I proud of?
+The sim now generates real, structured output — and that output is living in the cloud. I’m especially proud that I designed and executed a clean logging workflow that feels extensible and interview-ready.
+
+### ✅ What’s next?
+Tomorrow I want to make intersections actually *do something* — either by controlling access to the space or adding simple stoplight behavior. That’ll make the simulation not just active, but reactive, and give me more interesting logic to demonstrate and log. I'm actually VERY ahead of schedule so ""Day 4"" will probably just be today.
+
+

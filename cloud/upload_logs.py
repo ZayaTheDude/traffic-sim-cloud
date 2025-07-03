@@ -16,6 +16,6 @@ def upload_file(file_path, bucket_name, object_name=None):
         print(f"❌ Upload failed: {e}")
 
 if __name__ == "__main__":
-    test_file = "data/test_upload.txt"
+    log_file = "data/sim_log.json"
     bucket = "traffic-sim-logs-isaiah"
-    upload_file(test_file, bucket)
+    upload_file(log_file, bucket)

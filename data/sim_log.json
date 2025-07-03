@@ -1,0 +1,10343 @@
+[
+  {
+    "tick": 0,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 5,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 1,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 10,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 2,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 15,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 3,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 20,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 4,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 25,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 5,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 30,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 6,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 35,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 7,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 40,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 8,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 45,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 9,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 50,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 10,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 55,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 11,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 60,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 12,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 65,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 13,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 70,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 14,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 75,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 15,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 80,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 16,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 85,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 17,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 90,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 18,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 95,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 19,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 100,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 20,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 105,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 21,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 110,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 22,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 115,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 23,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 120,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 24,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 125,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 25,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 130,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 26,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 135,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 27,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 140,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 28,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 145,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 29,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 150,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 30,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 155,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 31,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 160,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 32,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 165,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 33,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 170,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 34,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 175,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 35,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 180,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 36,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 185,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 37,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 190,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 38,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 195,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 39,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 200,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 40,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 205,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 41,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 210,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 42,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 215,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 43,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 220,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 44,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 225,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 45,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 230,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 46,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 235,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 47,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 240,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 48,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 245,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 49,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 250,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 50,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 255,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 51,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 260,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 52,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 265,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 53,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 270,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 54,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 275,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 55,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 280,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 56,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 285,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 57,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 290,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 58,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 295,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 59,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 300,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 60,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 305,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 61,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 310,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 62,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 315,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 63,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 320,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 64,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 325,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 65,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 330,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 66,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 335,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 67,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 340,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 68,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 345,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 69,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 350,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 70,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 355,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 71,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 360,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 72,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 365,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 73,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 370,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 74,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 375,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 75,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 380,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 76,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 385,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 77,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 390,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 78,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 395,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 79,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 400,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 80,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 405,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 81,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 410,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 82,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 415,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 83,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 420,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 84,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 425,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 85,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 430,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 86,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 435,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 87,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 440,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 88,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 445,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 89,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 450,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 90,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 455,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 91,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 460,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 92,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 465,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 93,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 470,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 94,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 475,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 95,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 480,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 96,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 485,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 97,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 490,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 98,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 495,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 99,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 500,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 100,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 505,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 101,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 510,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 102,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 515,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 103,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 520,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 104,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 525,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 105,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 530,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 106,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 535,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 107,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 540,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 108,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 545,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 109,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 550,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 110,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 555,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 111,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 560,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 112,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 565,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 113,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 570,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 114,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 575,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 115,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 580,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 116,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 585,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 117,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 590,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 118,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 595,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 119,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 600,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 120,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 605,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 121,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 610,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 122,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 615,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 123,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 620,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 124,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 625,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 125,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 630,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 126,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 635,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 127,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 640,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 128,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 645,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 129,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 650,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 130,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 655,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 131,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 660,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 132,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 665,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 5,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 133,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 670,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 10,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 134,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 675,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 15,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 135,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 680,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 20,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 136,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 685,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 25,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 137,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 690,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 30,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 138,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 695,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 35,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 139,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 700,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 40,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 140,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 705,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 45,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 141,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 710,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 50,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 142,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 715,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 55,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 143,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 720,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 60,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 144,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 725,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 65,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 145,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 730,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 70,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 146,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 735,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 75,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 147,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 740,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 80,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 148,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 745,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 85,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 149,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 750,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 90,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 150,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 755,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 95,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 151,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 760,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 100,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 152,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 765,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 105,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 153,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 770,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 110,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 154,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 775,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 115,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 155,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 780,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 120,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 156,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 785,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 125,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 157,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 790,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 130,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 158,
+    "cars": [
+      {
+        "id": 4406559472,
+        "x": 795,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129424,
+        "x": 135,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 159,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 140,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 160,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 145,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 161,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 150,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 162,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 155,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 163,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 160,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 164,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 165,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 165,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 170,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 166,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 175,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 167,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 180,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 168,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 185,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 169,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 190,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 170,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 195,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 171,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 200,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 172,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 205,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 173,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 210,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 174,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 215,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 175,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 220,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 176,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 225,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 177,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 230,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 178,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 235,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 179,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 240,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 180,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 245,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 181,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 250,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 182,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 255,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 183,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 260,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 184,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 265,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 185,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 270,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 186,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 275,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 187,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 280,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 188,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 285,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 189,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 290,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 190,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 295,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 191,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 300,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 192,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 305,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 193,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 310,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 194,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 315,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 195,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 320,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 196,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 325,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 197,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 330,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 198,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 335,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 199,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 340,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 200,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 345,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 201,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 350,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 202,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 355,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 203,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 360,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 204,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 365,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 205,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 370,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 206,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 375,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 207,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 380,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 208,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 385,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 209,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 390,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 210,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 395,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 211,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 400,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 212,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 405,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 213,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 410,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 214,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 415,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 215,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 420,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 216,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 425,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 217,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 430,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 218,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 435,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 219,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 440,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 220,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 445,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 221,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 450,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 222,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 455,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 223,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 460,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 224,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 465,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 225,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 470,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 226,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 475,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 227,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 480,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 228,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 485,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 229,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 490,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 230,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 495,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 231,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 500,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 232,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 505,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 233,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 510,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 234,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 515,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 235,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 520,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 236,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 525,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 237,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 530,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 238,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 535,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 239,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 540,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 240,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 545,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 241,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 550,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 242,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 555,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 243,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 560,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 244,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 565,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 5,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 245,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 570,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 10,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 246,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 575,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 15,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 247,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 580,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 20,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 248,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 585,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 25,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 249,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 590,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 30,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 250,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 595,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 35,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 251,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 600,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 40,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 252,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 605,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 45,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 253,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 610,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 50,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 254,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 615,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 55,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 255,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 620,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 60,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 256,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 625,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 65,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 257,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 630,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 70,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 258,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 635,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 75,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 259,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 640,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 80,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 260,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 645,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 85,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 261,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 650,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 90,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 262,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 655,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 95,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 263,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 660,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 100,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 264,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 665,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 105,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 265,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 670,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 110,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 266,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 675,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 115,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 267,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 680,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 120,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 268,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 685,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 125,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 269,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 690,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 130,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 270,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 695,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 135,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 271,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 700,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 140,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 272,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 705,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 145,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 273,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 710,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 150,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 274,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 715,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 155,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 275,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 720,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 160,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 276,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 725,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 165,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 277,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 730,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 170,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 278,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 735,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 175,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 279,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 740,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 180,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 280,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 745,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 185,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 281,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 750,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 190,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 282,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 755,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 195,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 283,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 760,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 200,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 284,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 765,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 205,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 285,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 770,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 210,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 286,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 775,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 215,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 287,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 780,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 220,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 288,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 785,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 225,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 289,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 790,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 230,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 290,
+    "cars": [
+      {
+        "id": 4394129424,
+        "x": 795,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394129104,
+        "x": 235,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 291,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 240,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 292,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 245,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 293,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 250,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 294,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 255,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 295,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 260,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 296,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 265,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 297,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 270,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 298,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 275,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 299,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 280,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 300,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 285,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 301,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 290,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 302,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 295,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 303,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 300,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 304,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 305,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 305,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 310,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 306,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 315,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 307,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 320,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 308,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 325,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 309,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 330,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 310,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 335,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 311,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 340,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 312,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 345,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 313,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 350,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 314,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 355,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 315,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 360,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 316,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 365,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 317,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 370,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 318,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 375,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 319,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 380,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 320,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 385,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 321,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 390,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 322,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 395,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 323,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 400,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 324,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 405,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 325,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 410,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 326,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 415,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 327,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 420,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 328,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 425,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 329,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 430,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 330,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 435,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 331,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 440,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 332,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 445,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 333,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 450,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 334,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 455,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 335,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 460,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 336,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 465,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 337,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 470,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 338,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 475,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 339,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 480,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 340,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 485,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 341,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 490,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 342,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 495,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 343,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 500,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 5,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 344,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 505,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 10,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 345,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 510,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 15,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 346,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 515,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 20,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 347,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 520,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 25,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 348,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 525,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 30,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 349,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 530,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 35,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 350,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 535,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 40,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 351,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 540,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 45,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 352,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 545,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 50,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 353,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 550,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 55,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 354,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 555,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 60,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 355,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 560,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 65,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 356,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 565,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 70,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 357,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 570,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 75,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 358,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 575,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 80,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 359,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 580,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 85,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 360,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 585,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 90,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 361,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 590,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 95,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 362,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 595,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 100,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 363,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 600,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 105,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 364,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 605,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 110,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 365,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 610,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 115,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 366,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 615,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 120,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 367,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 620,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 125,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 368,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 625,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 130,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 369,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 630,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 135,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 370,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 635,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 140,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 371,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 640,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 145,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 372,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 645,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 150,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 373,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 650,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 155,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 374,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 655,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 160,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 375,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 660,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 165,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 376,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 665,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 170,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 377,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 670,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 175,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 378,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 675,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 180,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 379,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 680,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 185,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 380,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 685,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 190,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 381,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 690,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 195,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 382,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 695,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 200,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 383,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 700,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 205,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 384,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 705,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 210,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 385,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 710,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 215,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 386,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 715,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 220,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 387,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 720,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 225,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 388,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 725,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 230,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 389,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 730,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 235,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 390,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 735,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 240,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 391,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 740,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 245,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 392,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 745,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 250,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 393,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 750,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 255,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 394,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 755,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 260,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 395,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 760,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 265,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 396,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 765,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 270,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 397,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 770,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 275,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 398,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 775,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 280,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 399,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 780,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 285,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 400,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 785,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 290,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 401,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 790,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 295,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 402,
+    "cars": [
+      {
+        "id": 4394129104,
+        "x": 795,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406444720,
+        "x": 300,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 403,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 305,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 404,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 310,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 405,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 315,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 406,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 320,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 407,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 325,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 408,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 330,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 409,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 335,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 410,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 340,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 411,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 345,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 412,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 350,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 413,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 355,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 414,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 360,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 415,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 365,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 416,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 370,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 417,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 375,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 418,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 380,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 419,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 385,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 420,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 390,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 421,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 395,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 422,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 400,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 423,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 405,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 424,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 410,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 425,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 415,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 426,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 420,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 427,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 425,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 428,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 430,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 429,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 435,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 430,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 440,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 431,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 445,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 432,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 450,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 5,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 433,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 455,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 10,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 434,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 460,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 15,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 435,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 465,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 20,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 436,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 470,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 25,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 437,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 475,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 30,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 438,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 480,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 35,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 439,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 485,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 40,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 440,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 490,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 45,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 441,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 495,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 50,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 442,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 500,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 55,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 443,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 505,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 60,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 444,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 510,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 65,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 445,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 515,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 70,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 446,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 520,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 75,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 447,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 525,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 80,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 448,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 530,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 85,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 449,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 535,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 90,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 450,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 540,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 95,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 451,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 545,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 100,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 452,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 550,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 105,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 453,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 555,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 110,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 454,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 560,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 115,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 455,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 565,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 120,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 456,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 570,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 125,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 457,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 575,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 130,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 458,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 580,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 135,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 459,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 585,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 140,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 460,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 590,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 145,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 461,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 595,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 150,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 462,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 600,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 155,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 463,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 605,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 160,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 464,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 610,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 165,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 465,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 615,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 170,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 466,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 620,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 175,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 467,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 625,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 180,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 468,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 630,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 185,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 469,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 635,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 190,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 470,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 640,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 195,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 471,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 645,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 200,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 472,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 650,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 205,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 473,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 655,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 210,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 474,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 660,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 215,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 475,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 665,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 220,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 476,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 670,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 225,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 477,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 675,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 230,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 478,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 680,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 235,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 479,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 685,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 240,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 480,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 690,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 245,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 481,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 695,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 250,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 482,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 700,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 255,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 483,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 705,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 260,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 484,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 710,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 265,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 485,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 715,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 270,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 486,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 720,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 275,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 487,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 725,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 280,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 488,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 730,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 285,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 489,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 735,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 290,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 490,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 740,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 295,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 491,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 745,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 300,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 492,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 750,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 305,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 493,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 755,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 310,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 494,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 760,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 315,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 495,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 765,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 320,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 496,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 770,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 325,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 497,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 775,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 330,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 498,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 780,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 335,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 499,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 785,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 340,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 500,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 790,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 345,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 501,
+    "cars": [
+      {
+        "id": 4406444720,
+        "x": 795,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4406446848,
+        "x": 350,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 502,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 355,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 503,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 360,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 504,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 365,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 505,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 370,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 506,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 375,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 507,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 380,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 508,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 385,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 509,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 390,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 510,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 395,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 511,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 400,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 512,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 405,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 513,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 410,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 514,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 415,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 515,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 420,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 516,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 425,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 517,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 430,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 518,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 435,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 519,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 440,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 520,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 445,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 521,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 450,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 522,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 455,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 523,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 460,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 524,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 465,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 525,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 470,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 526,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 475,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 527,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 480,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 528,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 485,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 529,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 490,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 530,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 495,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 531,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 500,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 532,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 505,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 533,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 510,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 534,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 515,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 535,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 520,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 536,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 525,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 537,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 530,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 538,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 535,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 539,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 540,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 540,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 545,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 541,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 550,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 542,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 555,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 543,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 560,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 544,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 565,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 545,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 570,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 546,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 575,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 547,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 580,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 548,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 585,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 549,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 590,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 550,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 595,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 5,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 551,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 600,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 10,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 552,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 605,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 15,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 553,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 610,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 20,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 554,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 615,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 25,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 555,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 620,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 30,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 556,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 625,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 35,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 557,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 630,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 40,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 558,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 635,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 45,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 559,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 640,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 50,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 560,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 645,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 55,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 561,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 650,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 60,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 562,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 655,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 65,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 563,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 660,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 70,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 564,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 665,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 75,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 565,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 670,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 80,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 566,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 675,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 85,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 567,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 680,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 90,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 568,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 685,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 95,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 569,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 690,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 100,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 570,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 695,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 105,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 571,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 700,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 110,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 572,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 705,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 115,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 573,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 710,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 120,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 574,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 715,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 125,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 575,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 720,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 130,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 576,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 725,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 135,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 577,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 730,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 140,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 578,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 735,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 145,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 579,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 740,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 150,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 580,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 745,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 155,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 581,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 750,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 160,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 582,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 755,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 165,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 583,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 760,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 170,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 584,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 765,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 175,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 585,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 770,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 180,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 586,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 775,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 185,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 587,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 780,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 190,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 588,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 785,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 195,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 589,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 790,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 200,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 590,
+    "cars": [
+      {
+        "id": 4406446848,
+        "x": 795,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394162736,
+        "x": 205,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 591,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 210,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 592,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 215,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 593,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 220,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 594,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 225,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 595,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 230,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 596,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 235,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 597,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 240,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 598,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 245,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 599,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 250,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 600,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 255,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 601,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 260,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 602,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 265,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 603,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 270,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 604,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 275,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 605,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 280,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 606,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 285,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 607,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 290,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 608,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 295,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 609,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 300,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 610,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 305,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 611,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 310,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 612,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 315,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 5,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 613,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 320,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 10,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 614,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 325,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 15,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 615,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 330,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 20,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 616,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 335,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 25,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 617,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 340,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 30,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 618,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 345,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 35,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 619,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 350,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 40,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 620,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 355,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 45,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 621,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 360,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 50,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 622,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 365,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 55,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 623,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 370,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 60,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 624,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 375,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 65,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 625,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 380,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 70,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 626,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 385,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 75,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 627,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 390,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 80,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 628,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 395,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 85,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 629,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 400,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 90,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 630,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 405,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 95,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 631,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 410,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 100,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 632,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 415,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 105,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 633,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 420,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 110,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 634,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 425,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 115,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 635,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 430,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 120,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 636,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 435,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 125,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 637,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 440,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 130,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 638,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 445,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 135,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 639,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 450,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 140,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 640,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 455,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 145,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 641,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 460,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 150,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 642,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 465,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 155,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 643,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 470,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 160,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 644,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 475,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 165,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 645,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 480,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 170,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 646,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 485,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 175,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 647,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 490,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 180,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 648,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 495,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 185,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 649,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 500,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 190,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 650,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 505,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 195,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 651,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 510,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 200,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 652,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 515,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 205,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 653,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 520,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 210,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 654,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 525,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 215,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 655,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 530,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 220,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 656,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 535,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 225,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 657,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 540,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 230,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 658,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 545,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 235,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 659,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 550,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 240,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 660,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 555,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 245,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 661,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 560,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 250,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 662,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 565,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 255,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 663,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 570,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 260,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 664,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 575,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 265,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 665,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 580,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 270,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 666,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 585,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 275,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 667,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 590,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 280,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 668,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 595,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 285,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 669,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 600,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 290,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 670,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 605,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 295,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 671,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 610,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 300,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 672,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 615,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 305,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 673,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 620,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 310,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 674,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 625,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 315,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 675,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 630,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 320,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 676,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 635,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 325,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 677,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 640,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 330,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 678,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 645,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 335,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 679,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 650,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 340,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 680,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 655,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 345,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 681,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 660,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 350,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 682,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 665,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 355,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 683,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 670,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 360,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 684,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 675,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 365,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 685,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 680,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 370,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 686,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 685,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 375,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 687,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 690,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 380,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 688,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 695,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 385,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 689,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 700,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 390,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 690,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 705,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 395,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 691,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 710,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 400,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 692,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 715,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 405,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 693,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 720,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 410,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 694,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 725,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 415,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 695,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 730,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 420,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 696,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 735,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 425,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 697,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 740,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 430,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 698,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 745,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 435,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 699,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 750,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 440,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 700,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 755,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 445,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 701,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 760,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 450,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 702,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 765,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 455,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 703,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 770,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 460,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 704,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 775,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 465,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 705,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 780,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 470,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 706,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 785,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 475,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 707,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 790,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 480,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 708,
+    "cars": [
+      {
+        "id": 4394162736,
+        "x": 795,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228720,
+        "x": 485,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 709,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 490,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 710,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 495,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 711,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 500,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 712,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 505,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 713,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 510,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 714,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 515,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 715,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 520,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 716,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 525,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 717,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 530,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 718,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 535,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 719,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 540,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 720,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 545,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 721,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 550,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 722,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 555,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 723,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 560,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 724,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 565,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 725,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 570,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 726,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 575,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 727,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 580,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 728,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 585,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 729,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 590,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 730,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 595,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 731,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 600,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 732,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 605,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 733,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 610,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 734,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 615,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 735,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 620,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 736,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 625,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 737,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 630,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 738,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 635,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 739,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 640,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 740,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 645,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 741,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 650,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 742,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 655,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 743,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 660,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 744,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 665,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 745,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 670,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 746,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 675,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 747,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 680,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 748,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 685,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 749,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 690,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 750,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 695,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 751,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 700,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  },
+  {
+    "tick": 752,
+    "cars": [
+      {
+        "id": 4394228720,
+        "x": 705,
+        "y": 300,
+        "direction": "right"
+      },
+      {
+        "id": 4394228992,
+        "x": 5,
+        "y": 300,
+        "direction": "right"
+      }
+    ]
+  }
+]
