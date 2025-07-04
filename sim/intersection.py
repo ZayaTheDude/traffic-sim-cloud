@@ -1,21 +1,20 @@
 import pygame
 
 class Intersection:
-    def __init__(self, x, y, width=60, height=60):
+    def __init__(self, x, y, width=60, height=60, green_duration=180, red_duration=180):
         self.rect = pygame.Rect(x, y, width, height)
         self.occupants = set()
+        self.timer = 0
+        self.green_duration = green_duration
+        self.red_duration = red_duration
 
-    def try_enter(self, car_id):
-        if self.is_occupied():
-            return False
-        self.occupants.add(car_id)
-        return True
+    def is_green(self):
+        cycle = self.green_duration + self.red_duration
+        return (self.timer % cycle) < self.green_duration
 
-    def leave(self, car_id):
-        self.occupants.discard(car_id)
-
-    def is_occupied(self):
-        return len(self.occupants) > 0
+    def update(self):
+        self.timer += 1
 
     def draw(self, surface):
-        pygame.draw.rect(surface, (0, 255, 0), self.rect, 2)
+        color = (0, 255, 0) if self.is_green() else (255, 0, 0)
+        pygame.draw.rect(surface, color, self.rect, 2)
