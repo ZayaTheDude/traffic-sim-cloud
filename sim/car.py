@@ -107,11 +107,10 @@ class Car:
             return False # Already in intersection, no need to stop
 
         if self.front_bumper.colliderect(intersection.rect):
-            if intersection.is_green():
+            if intersection.is_direction_green(self.direction):
                 self.in_intersection = True
                 return False
             else:
-                self.in_intersection = False
                 return True
         
         self.in_intersection = False # Not in intersection
