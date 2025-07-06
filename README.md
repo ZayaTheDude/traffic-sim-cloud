@@ -13,6 +13,38 @@ A Pygame-based traffic simulator for modeling cars, intersections, and traffic b
 
 ---
 
+## 📁 Folder Structure
+
+- `sim/` — Simulation files
+- `models/` — Core simulation classes (`Car`, `Intersection`)
+- `cloud/` — AWS S3 upload logic
+- `data/` — Locally stored JSON logs
+- `configs/` — Parameterized config files for different run modes
+
+---
+
+## 🚀 Getting Started
+
+### 1. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Run the simulation
+
+```bash
+python simulator.py --config configs/standard.json
+```
+
+Or try a different configuration:
+
+```bash
+python simulator.py --config configs/low_fps.json
+```
+
+---
+
 ## 🎯 Project Goals
 
 - [x] Visualize traffic behavior in a 2D simulation
@@ -20,16 +52,6 @@ A Pygame-based traffic simulator for modeling cars, intersections, and traffic b
 - [x] Create cloud integration for log uploads
 - [ ] Introduce more realistic traffic rules (e.g., stop signs, traffic prioritization)
 - [ ] Automate cloud runs with parameterized traffic scenarios
-
----
-
-## 📁 Folder Structure
-
-- `sim/` — Simulation source code
-- `cloud/` — S3 upload logic
-- `data/` — Locally stored JSON logs
-- `logger.py` — Captures and writes per-tick simulation state
-- `README.md` — Project notes and dev log
 
 ---
 

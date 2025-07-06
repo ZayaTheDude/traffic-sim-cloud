@@ -1,2 +1,2 @@
-pygame
-boto3
+pygame>=2.1.0
+boto3>=1.26.0
